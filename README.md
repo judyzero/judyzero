@@ -1,6 +1,11 @@
 ### YU DA YOUNG
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjudyzero%2Fjudyzero&count_bg=%23CF89FF&title_bg=%23A670FC&icon=&icon_color=%23D0D0D0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
 <!--
 **judyzero/judyzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
