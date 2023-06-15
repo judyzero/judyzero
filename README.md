@@ -1,5 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Yu Dayoung. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
+<h2>"Hello, I'm Yu Dayoung. I do open source!"</h2>
 <br />
 
 I'm a self-taught passionate Software student at Kookmin University from South Korea 🇰🇷
